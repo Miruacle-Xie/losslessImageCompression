@@ -1,6 +1,6 @@
 # losslessImageCompression
-程序支持压缩JPG PNG JPEG格式图片
--------------------------------
+支持压缩JPG PNG JPEG格式图片<br> 
+
 代码实现基于大佬gwjczwy的Lossless-image-compression项目, 以及博客园和牛大佬的文章：使用 python 压缩 png 图片，高达 80% 压缩率，肉眼无差异<br> 
 感谢大佬们的无私奉献，第一次上传自己编写的程序，若有什么问题，烦请多多包含<br> 
 
